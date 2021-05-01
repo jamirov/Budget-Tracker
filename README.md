@@ -26,4 +26,4 @@ Offline Functionality:
 
 ## Deployment
 
-* [This is the link to heroku](https://www.google.com)
+* [This is the link to heroku](https://budgetlartrack.herokuapp.com/)
